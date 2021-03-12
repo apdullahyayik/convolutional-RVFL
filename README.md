@@ -1,6 +1,4 @@
-# Convolutional-RVFL
-
-Convolutional Random Vector Functional Link Network+
+# Convolutional Random Vector Functional Link Network+
 
 ## Architecture
 
